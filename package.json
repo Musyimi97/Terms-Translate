@@ -1,0 +1,14 @@
+{
+  "name": "termtranslate",
+  "version": "1.0.0",
+  "description": "A NodeJS CLI that translates sentences from to another language.",
+  "main": "bin/index.js",
+  "scripts": {
+    "test": "tran"
+  },
+  "bin": {  
+    "tran": "./bin/index.js"  
+  },
+  "author": "Collins",
+  "license": "ISC"
+}
